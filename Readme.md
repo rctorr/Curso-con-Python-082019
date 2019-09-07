@@ -1,13 +1,13 @@
-== Curso de Python (Ago-2019)
+## Curso de Python (Ago-2019)
 
-=== Objetivos
+### Objetivos
  - Conocer los conceptos más importantes del lenguaje por medio de
    la realización de scripts
  - Conocer los principio fundamentales de una aplicación web
  - Desarrolar una aplicación web usando Django
  - Poner en producción (en línea) una aplicación de Django 
 
-=== Contenido de curso
+### Contenido de curso
 
 - [Clase 01](Clase-01) Fundamentos de Python
 - [Clase 02](Clase-02) Tipos de datos complejos, funciones, módulos
