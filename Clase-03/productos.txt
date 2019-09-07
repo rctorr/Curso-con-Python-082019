@@ -1,0 +1,4 @@
+003 Chocolates amargo          15.0   5  75.0
+001 Chocolates dulces           5.5  20 110.0
+002 Chocolates semiamargo       7.5  15 112.5
+                               Total: 297.5
